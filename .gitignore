@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Temporary
+*.tmp
+*.temp
+Temp/
+*.swp
+*.bak
+

@@ -1,0 +1,1 @@
+para o jogo: Desert parkour aspastas estão divididas em /docs para textos, /assets para imagens, /script para o código fonte do jogo

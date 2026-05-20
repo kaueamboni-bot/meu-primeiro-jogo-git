@@ -1,0 +1,11 @@
+W=andar para frente A=ira na direção da esquerda enquanto anda  D=ira na direção da direita enquanto anda.
+E=para pegar as ferramentas ,alimento, agua.
+F=para abrir as portas das casas abandonadas e também entrar nas carruagens.
+R=para recarregar as armas.
+J=para quando aquela ferramenta não tem mais utilidade pode jogar fora.
+L=para abrir o inventario.
+RMB=para atacar.
+Barra de Espaço=para pular.
+ 
+
+ 
